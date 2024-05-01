@@ -6,7 +6,7 @@ I am a recent graduate and a dedicated cybersecurity analyst who is passionate a
 
 ## Objective
 
-My goal is to lead innovation in cybersecurity, creating stronger defenses to protect against evolving threats and ensuring the safety of digital infrastructure, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to lead innovation in cybersecurity, creating stronger defenses to protect against evolving threats and ensuring the safety of digital infrastructure, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
 
 ## Projects
  Following are some of the projects that showcases my hands-on experience along with links to its detailed metholodogy
