@@ -13,8 +13,8 @@ My goal is to lead innovation in cybersecurity, creating stronger defenses to pr
 
 | Titles                                        | Methodology        |
 |-----------------------------------------------|----------------------------|
-| ActivE Directory Home Lab w/ Splunk        | <a href="https://google.com">Detection Lab</a>|
-| Security Atomation with SOAR | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Home Lab w/ Splunk        | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with SOAR | <a href="https://google.com">Detection Lab</a>|
 | Network Monitoring via IDS      | <a href="https://google.com">Detection Lab</a>|
 | Setting up a Honeypot in Cloud    |<a href="https://google.com">Detection Lab</a>|
 | Vulnerability Management w/ Nessus                | <a href="https://google.com">Detection Lab</a>|
