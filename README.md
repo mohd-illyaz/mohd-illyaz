@@ -23,32 +23,46 @@ My goal is to lead innovation in cybersecurity, creating stronger defenses to pr
 ## Tools
 
 <div>
+     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Snort-FF4500?&style=for-the-badge&logo=Snort&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Shuffle-0088CC?&style=for-the-badge&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+
+<div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-0489B1?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2C2D72?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?&style=for-the-badge&logo=burp&logoColor=white" /> 
 </div>
 
 
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-007ACC?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF4500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-2C2D72?&style=for-the-badge&logo=MITREATT%26CK&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploitable-000000?&style=for-the-badge&logoColor=white" />   
 </div>
 
+### 🧰 Languages
 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+<br />
+
+#
 
 ## Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-
+<div>
+ <img src="https://img.shields.io/badge/-EC_Council_CSA-312E81?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+</div>
+<div>
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
