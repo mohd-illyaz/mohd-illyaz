@@ -13,7 +13,7 @@ My goal is to lead innovation in cybersecurity, creating stronger defenses to pr
 
 | Titles                                        | Methodology        |
 |-----------------------------------------------|----------------------------|
-| Active Directory Home Lab w/ Splunk    | <a href="https://github.com/mohd-illyaz/Active-Directory-Home-Lab-w-Splunk">Detection Lab</a>|
+| Active Directory Home Lab w/ Splunk    | <a href="https://github.com/mohd-illyaz/Active-Directory-Home-Lab-w-Splunk">Active Directory</a>|
 | Security Automation with SOAR          | <a href="https://google.com">Detection Lab</a>|
 | Network Monitoring via IDS             | <a href="https://google.com">Detection Lab</a>|
 | Setting up a Honeypot in Cloud         |<a href="https://google.com">Detection Lab</a>|
