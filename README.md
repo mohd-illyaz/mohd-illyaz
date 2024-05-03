@@ -20,7 +20,7 @@ My goal is to lead innovation in cybersecurity, creating stronger defenses to pr
 | Vulnerability Management w/ Nessus     | <a href="https://google.com">Detection Lab</a>|
 
 
-## Tools
+## Tools + Skills 
 
 <div>
      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -33,17 +33,29 @@ My goal is to lead innovation in cybersecurity, creating stronger defenses to pr
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-0489B1?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-The%20Hive-1679A7?&style=for-the-badge&logo=The%20Hive&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-2C2D72?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?&style=for-the-badge&logo=burp&logoColor=white" /> 
 </div>
 
 
 <div>
-    <img src="https://img.shields.io/badge/-Sysmon-007ACC?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-1679A7?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF4500?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-2C2D72?&style=for-the-badge&logo=MITREATT%26CK&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploitable-000000?&style=for-the-badge&logoColor=white" />   
 </div>
+
+
+<div>
+<img src="https://img.shields.io/badge/-Wazuh-1679A7?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-007ACC?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Parrot%20OS-1679A7?&style=for-the-badge&logo=Parrot%20OS&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-1679A7?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tenable-1679A7?&style=for-the-badge&logo=Tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-1679A7?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+</div>
+
 
 ### 🧰 Languages
 
