@@ -2,7 +2,7 @@
 # Hi, I'm Illyaz
 
 
-I am a recent graduate and a dedicated cybersecurity analyst who is passionate about safeguarding digital assets and mitigating cyber threats. This repository serves as a comprehensive showcase of my expertise, projects, and contributions to the field. with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate and a dedicated cybersecurity analyst who is passionate about safeguarding digital assets and mitigating cyber threats. This repository serves as a comprehensive showcase of my expertise, projects, and contributions to the field, with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
